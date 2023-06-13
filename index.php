@@ -1,6 +1,6 @@
 <?php
 /*
-creator github: https://github.com/RezaKarimpour
+ https://github.com/RezaKarimpour
 */
 
 define ('BOT_TOKEN','YOUR_TOKEN');
